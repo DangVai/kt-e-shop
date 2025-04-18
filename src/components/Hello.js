@@ -4,14 +4,10 @@ import '../Template/css/font-awesome.min.css';
 import '../Template/css/themify-icons.css';
 import '../Template/css/elegant-icons.css';
 import '../Template/css/font-awesome.min.css';
-// import '../Template/css/jquery-ui.min.css';
 import '../Template/css/nice-select.css';
-// import '../Template/css/owl.carousel.min.css';
 import '../Template/css/slicknav.min.css';
 import '../Template/css/style.css';
 import '../Template/css/themify-icons.css';
-
-
 
 function Hello() {
   return (
@@ -239,37 +235,7 @@ function Hello() {
       </section>
       {/* Product Shop Section End */}
       {/* Partner Logo Section Begin */}
-      <div className="partner-logo">
-        <div className="container">
-          <div className="logo-carousel owl-carousel">
-            <div className="logo-item">
-              <div className="tablecell-inner">
-                <img src="img/logo-carousel/logo-1.png" alt="" />
-              </div>
-            </div>
-            <div className="logo-item">
-              <div className="tablecell-inner">
-                <img src="img/logo-carousel/logo-2.png" alt="" />
-              </div>
-            </div>
-            <div className="logo-item">
-              <div className="tablecell-inner">
-                <img src="img/logo-carousel/logo-3.png" alt="" />
-              </div>
-            </div>
-            <div className="logo-item">
-              <div className="tablecell-inner">
-                <img src="img/logo-carousel/logo-4.png" alt="" />
-              </div>
-            </div>
-            <div className="logo-item">
-              <div className="tablecell-inner">
-                <img src="img/logo-carousel/logo-5.png" alt="" />
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      
       {/* Partner Logo Section End */}
       
     </div>
